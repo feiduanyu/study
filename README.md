@@ -1,2 +1,2 @@
 # study
-this is your first lesson
+this is first lesson
